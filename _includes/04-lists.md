@@ -1,13 +1,12 @@
-:tada: This is a link for my ATACSeq Scripts associated with my pub in eLife recently.
+:tada: This is a Practice scripts
 
-1 Figure Scripts
-  1 Figure 1
-  2 Figure 2
-2 Analysis Scripts
-  1 ATAC-Seq
-  2 ChIP-Seq
-  3 RNA-Seq
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
 
-* Test 1
-  *Test2
-  *Test 3
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
