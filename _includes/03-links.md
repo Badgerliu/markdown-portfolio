@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[ATACSeq eLife scripts] (https://github.com/Badgerliu/periderm_ATACSeq)
