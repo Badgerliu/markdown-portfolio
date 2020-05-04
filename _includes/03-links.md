@@ -1,1 +1,1 @@
-[github](https://github.com/)
+[ATACSeq Scripts eLife](https://github.com/Badgerliu/periderm_ATACSeq/)
